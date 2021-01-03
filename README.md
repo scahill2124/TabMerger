@@ -1,6 +1,8 @@
 # ![tabmerger logo](./public/images/logo-full-rescale.PNG) 
 
-# [![Build Status](https://img.shields.io/github/workflow/status/lbragile/TabMerger/TabMerger%20Unit%20Testing?label=Build)](https://github.com/lbragile/TabMerger/actions) [![Coverage](https://img.shields.io/codecov/c/github/lbragile/TabMerger?label=Coverage)](https://app.codecov.io/gh/lbragile/TabMerger/) [![Build Status](https://img.shields.io/github/workflow/status/lbragile/TabMerger/TabMerger%20Unit%20Testing?label=Build)](https://github.com/lbragile/TabMerger/actions) [![Coverage](https://img.shields.io/codecov/c/github/lbragile/TabMerger?label=Coverage)](https://app.codecov.io/gh/lbragile/TabMerger/)
+# [![Build Status](https://img.shields.io/github/workflow/status/lbragile/TabMerger/TabMerger%20Unit%20Testing?label=Build)](https://github.com/lbragile/TabMerger/actions) [![Coverage](https://img.shields.io/codecov/c/github/lbragile/TabMerger?label=Coverage)](https://app.codecov.io/gh/lbragile/TabMerger/) [![Build Status](https://img.shields.io/github/workflow/status/lbragile/TabMerger/TabMerger%20Unit%20Testing?label=Build)](https://github.com/lbragile/TabMerger/actions)
+
+[![Coverage](https://img.shields.io/codecov/c/github/lbragile/TabMerger?label=Coverage)](https://app.codecov.io/gh/lbragile/TabMerger/)
 
 
 [![Issues](https://img.shields.io/github/issues/lbragile/TabMerger?label=Issues)](https://github.com/lbragile/TabMerger/issues) 
